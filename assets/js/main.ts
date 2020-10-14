@@ -1,1 +1,1 @@
-console.log('some typescript!');
+console.log('some typescript! a change');
