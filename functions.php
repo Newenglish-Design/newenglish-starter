@@ -91,9 +91,9 @@ add_action( 'login_enqueue_scripts', 'newenglish_login_logo' );
 require get_template_directory() . '/inc/clean-up.php';
 
 /**
- * Gutenburg blocks
+ * ACF/Gutenburg blocks
  */
-// require get_template_directory() . '/blocks/blocks.php';
+require get_template_directory() . '/blocks/blocks.php';
 
 /**
  * Include Custom Post Types
