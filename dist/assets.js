@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "98dd6e0591749d63bc41";
+/******/ 	var hotCurrentHash = "df006ca82ef12143240c";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -878,7 +878,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sas
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log('some typescript!');\n\n\n//# sourceURL=webpack:///./assets/js/main.ts?");
+eval("console.log('some typescript! a change');\n\n\n//# sourceURL=webpack:///./assets/js/main.ts?");
 
 /***/ }),
 
@@ -889,7 +889,7 @@ eval("console.log('some typescript!');\n\n\n//# sourceURL=webpack:///./assets/js
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("// extracted by mini-css-extract-plugin\n    if(true) {\n      // 1602605800871\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.i, {\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack:///./assets/sass/style.scss?");
+eval("// extracted by mini-css-extract-plugin\n    if(true) {\n      // 1602679856458\n      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.i, {\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack:///./assets/sass/style.scss?");
 
 /***/ }),
 
